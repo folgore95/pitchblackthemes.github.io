@@ -92,7 +92,7 @@ a:hover{
 	margin-bottom:3px;
 }
 #about_card .element .info{
-	color:#000000;
+	color:#616161;
 	font-size:14px;
 }
 #about_card .element .date{
@@ -103,8 +103,8 @@ a:hover{
 }
 hr{
 	width:60%;
-	color: #E0E0E0;
-	background-color: #E0E0E0;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
 	height:1px;
 	border:0;
 }
@@ -130,7 +130,7 @@ hr{
 	margin:0 20px 0 20px;
 	display:inline-block;
 	font-size:14px;
-	color:#212121;
+	color:#000000;
 }
 #contact_card a{
 	color:#616161;
