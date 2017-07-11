@@ -27,7 +27,7 @@ a:hover{
 	width:600px;
 	margin:0 auto;
 	color:#212121;
-	background-color:#212121;
+	background-color:#000000;
 	border-radius: 3px;
 	box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.19), 0 2px 6px 0 rgba(0, 0, 0, 0.2);
 	overflow:auto;
@@ -59,7 +59,7 @@ a:hover{
 #quick_card #description{
 	font-weight:normal;
 	font-size:15px;
-	color:#616161;
+	color:#FFFFFF;
 }
 #about_card{
 	position:relative;
@@ -92,7 +92,7 @@ a:hover{
 	margin-bottom:3px;
 }
 #about_card .element .info{
-	color:#616161;
+	color:#000000;
 	font-size:14px;
 }
 #about_card .element .date{
