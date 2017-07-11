@@ -27,7 +27,7 @@ a:hover{
 	width:600px;
 	margin:0 auto;
 	color:#212121;
-	background-color:#212121;
+	background-color:#000000;
 	border-radius: 3px;
 	box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.19), 0 2px 6px 0 rgba(0, 0, 0, 0.2);
 	overflow:auto;
@@ -59,7 +59,7 @@ a:hover{
 #quick_card #description{
 	font-weight:normal;
 	font-size:15px;
-	color:#616161;
+	color:#FFFFFF;
 }
 #about_card{
 	position:relative;
@@ -87,24 +87,24 @@ a:hover{
 	margin-top:5px;
 }
 #about_card .element .name{
-	color:#616161;
+	color:#FFFFFF;
 	font-size:15px;
 	margin-bottom:3px;
 }
 #about_card .element .info{
-	color:#616161;
+	color:#FFFFFF;
 	font-size:14px;
 }
 #about_card .element .date{
-	color:#616161;
+	color:#FFFFFF;
 	font-style: italic;
 	font-size:14px;
 	margin-top: 3px;
 }
 hr{
 	width:60%;
-	color: #E0E0E0;
-	background-color: #E0E0E0;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
 	height:1px;
 	border:0;
 }
@@ -130,10 +130,10 @@ hr{
 	margin:0 20px 0 20px;
 	display:inline-block;
 	font-size:14px;
-	color:#212121;
+	color:#000000;
 }
 #contact_card a{
-	color:#616161;
+	color:#FFFFFF;
 	text-decoration:none; /*Change link color (ONLY Contact Card)*/
 }
 #contact_card a:hover{
