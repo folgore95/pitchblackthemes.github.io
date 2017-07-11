@@ -27,7 +27,7 @@ a:hover{
 	width:600px;
 	margin:0 auto;
 	color:#212121;
-	background-color:#000000;
+	background-color:#141516;
 	border-radius: 3px;
 	box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.19), 0 2px 6px 0 rgba(0, 0, 0, 0.2);
 	overflow:auto;
@@ -130,7 +130,7 @@ hr{
 	margin:0 20px 0 20px;
 	display:inline-block;
 	font-size:14px;
-	color:#000000;
+	color:#141516;
 }
 #contact_card a{
 	color:#FFFFFF;
