@@ -87,16 +87,16 @@ a:hover{
 	margin-top:5px;
 }
 #about_card .element .name{
-	color:#616161;
+	color:#FFFFFF;
 	font-size:15px;
 	margin-bottom:3px;
 }
 #about_card .element .info{
-	color:#616161;
+	color:#FFFFFF;
 	font-size:14px;
 }
 #about_card .element .date{
-	color:#616161;
+	color:#FFFFFF;
 	font-style: italic;
 	font-size:14px;
 	margin-top: 3px;
@@ -133,7 +133,7 @@ hr{
 	color:#000000;
 }
 #contact_card a{
-	color:#616161;
+	color:#FFFFFF;
 	text-decoration:none; /*Change link color (ONLY Contact Card)*/
 }
 #contact_card a:hover{
