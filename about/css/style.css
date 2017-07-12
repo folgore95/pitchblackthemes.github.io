@@ -59,7 +59,7 @@ a:hover{
 #quick_card #description{
 	font-weight:normal;
 	font-size:15px;
-	color:#FFFFFF;
+	color:#EAEAEA;
 }
 #about_card{
 	position:relative;
@@ -87,24 +87,24 @@ a:hover{
 	margin-top:5px;
 }
 #about_card .element .name{
-	color:#FFFFFF;
+	color:#EAEAEA; 
 	font-size:15px;
 	margin-bottom:3px;
 }
 #about_card .element .info{
-	color:#FFFFFF;
+	color:#EAEAEA;
 	font-size:14px;
 }
 #about_card .element .date{
-	color:#FFFFFF;
+	color:#EAEAEA;
 	font-style: italic;
 	font-size:14px;
 	margin-top: 3px;
 }
 hr{
 	width:60%;
-	color: #FFFFFF;
-	background-color: #FFFFFF;
+	color: #EAEAEA;
+	background-color: #EAEAEA;
 	height:1px;
 	border:0;
 }
@@ -133,7 +133,7 @@ hr{
 	color:#141516;
 }
 #contact_card a{
-	color:#FFFFFF;
+	color:#EAEAEA;
 	text-decoration:none; /*Change link color (ONLY Contact Card)*/
 }
 #contact_card a:hover{
