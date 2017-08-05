@@ -1,6 +1,6 @@
 # Pitch Black Themes HTML
 
-<img src="https://github.com/pitchblackthemes/blob/master/pb.png"/>
+<img src="https://github.com/pitchblackthemes/pitchblackthemes.github.io/blob/master/pb.png"/>
 
 ## Download 
 
