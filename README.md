@@ -1,5 +1,5 @@
 # Pitch Black Themes HTML
-
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/pitchblackthemes/pitchblackthemes.github.io/blob/master/LICENSE)
 <img src="https://github.com/pitchblackthemes/pitchblackthemes.github.io/blob/master/pb.png"/>
 
 ## Download 
