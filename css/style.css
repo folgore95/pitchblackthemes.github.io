@@ -24,8 +24,8 @@ a:hover{
 	background-color:#111111; /* Change top background color */
 }
 .card{
-	width:800px;
-	margin:10px;
+	width:1000px;
+	margin:0 auto;
 	color:#212121;
 	background-color:#141516;
 	border-radius: 3px;
